@@ -3,5 +3,5 @@
 ## Basics
 
 * Git is awesome.
-* Edits on feateure branch a.
+* Edits on feature branch a.
 * Some changes on feature branch b.
