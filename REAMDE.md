@@ -2,4 +2,4 @@
 
 ## Basics
 
-* Git is awesoe.
+* Git is awesome.
